@@ -1,0 +1,17 @@
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\bin\Debug\WpfSolarSystem.exe.config
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\bin\Debug\WpfSolarSystem.exe
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\bin\Debug\WpfSolarSystem.pdb
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\bin\Debug\SolarSystemLibrary.dll
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\bin\Debug\SolarSystemLibrary.pdb
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.csprojAssemblyReference.cache
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\MainWindow.g.cs
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\App.g.cs
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem_MarkupCompile.cache
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem_MarkupCompile.lref
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\MainWindow.baml
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.g.resources
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.Properties.Resources.resources
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.csproj.GenerateResource.cache
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.csproj.CopyComplete
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.exe
+C:\Users\selle\source\repos\SolarSystem\WpfSolarSystem\obj\Debug\WpfSolarSystem.pdb
